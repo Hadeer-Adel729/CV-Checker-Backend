@@ -24,7 +24,8 @@ npm install
 ## API Documentation
 - POST /api/matchCV - Upload and analyze CV
 
-![CV Analysis API](<img width="1782" height="869" alt="Screenshot (659)" src="https://github.com/user-attachments/assets/78150e9b-93fd-4b04-954c-9c013bedebe7" />)
+![CV Analysis API](<img width="631" height="227" alt="Request" src="https://github.com/user-attachments/assets/725c8c63-52ff-4860-b879-cf05fca81950" />
+)
 
 **Request:**
 
