@@ -10,7 +10,7 @@ CV Checker Backend is a service that provides API endpoints for analyzing and pr
 - API endpoints for CV processing
 
 ## API Documentation
-- POST localhost:8080/api/matchCV - Upload and analyze CV
+- POST [localhost:8080/api/matchCV](http://localhost:8080/api/matchCV) - Upload and analyze CV
 
 **Request:**
 
