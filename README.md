@@ -9,11 +9,6 @@ CV Checker Backend is a service that provides API endpoints for analyzing and pr
 - Feedback generation
 - API endpoints for CV processing
 
-## Prerequisites
-- Node.js (v14 or higher)
-- MongoDB
-- NPM or Yarn
-
 ## Installation
 ```bash
 # Clone the repository
