@@ -8,7 +8,6 @@ CV Checker Backend is a service that provides API endpoints for analyzing and pr
 - Job requirements matching
 - Feedback generation
 - API endpoints for CV processing
-```
 
 ## API Documentation
 - POST /api/matchCV - Upload and analyze CV
