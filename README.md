@@ -14,5 +14,8 @@ CV Checker Backend is a service that provides API endpoints for analyzing and pr
 
 **Request:**
 
+<img width="1734" height="785" alt="Screenshot (678)" src="https://github.com/user-attachments/assets/1731c04d-0304-4936-8d5b-62d551bf4778" />
+
 **Response:**
 
+<img width="1758" height="803" alt="Screenshot (679)" src="https://github.com/user-attachments/assets/2358345e-e541-4d83-bb19-32f22a5b4954" />
