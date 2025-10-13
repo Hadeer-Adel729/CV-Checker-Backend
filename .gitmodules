@@ -1,3 +1,6 @@
 [submodule "CV-Checker-Web-Frontend"]
 	path = CV-Checker-Web-Frontend
 	url = https://github.com/Hadeer-Adel729/CV-Checker-Web-Frontend.git
+[submodule "Web_Frontend"]
+	path = Web_Frontend
+	url = https://github.com/Hadeer-Adel729/CV-Checker-Web-Frontend.git
