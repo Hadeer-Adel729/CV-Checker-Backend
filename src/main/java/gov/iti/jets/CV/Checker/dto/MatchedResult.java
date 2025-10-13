@@ -10,7 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class MatchedResult {
-    private int matchScore;
+    private double matchScore;
     private List<String> strengths;
     private List<String> weaknesses;
     private List<String> improvements;

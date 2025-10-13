@@ -30,10 +30,9 @@ public class MatchService {
 
     String promptText =
             "Analyze this CV and compare it with the job description. Return JSON with: " +
-                    "{\"matchScore\": number, \"strengths\": [], \"weaknesses\": [], " +
+                    "{\"matchScore\": number (0-100 percentage), \"strengths\": [], \"weaknesses\": [], " +
                     "\"improvements\": [], \"summary\": \"text\"}. " +
-                    "CV: %s " +
-                    "Job Description: %s";
+                    "CV: %s " + "Job Description: %s";
 
 
     public MatchedResult matchCvWithJob(MultipartFile file, String jobDescription) {
